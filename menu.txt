@@ -1,0 +1,6 @@
+1 - Beef - Curry - 180
+2 - Chicken - Roast - 200
+3 - Mutton - Roast - 250
+4 - Rice - Bashmoti - 200
+5 - Tehari - Beef - 250
+6 - Kacchi - Mutton - 300

@@ -1,0 +1,27 @@
+
+Order ID: 1774943241
+Date: Tue, Mar 31, 2026  1:47:21 PM
+Status: Cancelled
+Customer Name: Shahadad
+Phone Number: 01633914804
+Items Ordered:
+2 - Chicken - Roast - 1 - 200
+1 - Beef - Curry - 1 - 180
+Original Price: 380
+Total Price: 380
+Total Items Ordered: 2
+=============================
+Order ID: 1774943361
+Date: Tue, Mar 31, 2026  1:49:21 PM
+Status: Accepted
+Customer Name: Jisan
+Phone Number: 01707817477
+Items Ordered:
+4 - Rice - Bashmoti - 2 - 400
+3 - Mutton - Roast - 1 - 250
+1 - Beef - Curry - 1 - 180
+Original Price: 830
+Discount: 7% (-58)
+Total Price: 772
+Total Items Ordered: 4
+=============================
